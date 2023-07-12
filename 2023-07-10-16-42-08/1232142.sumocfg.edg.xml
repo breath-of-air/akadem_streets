@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-11 17:44:30 by Eclipse SUMO netedit Version 1.15.0
+<!-- generated on 2023-07-12 12:37:16 by Eclipse SUMO netedit Version 1.15.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <input>
@@ -8,7 +8,7 @@
     </input>
 
     <output>
-        <output-file value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\pop.net.xml"/>
+        <output-file value="C:\Users\User\Documents\GitHub\akadem_streets\2023-07-10-16-42-08\pop.net.xml"/>
         <output.street-names value="true"/>
     </output>
 
@@ -32,7 +32,7 @@
     </pedestrian>
 
     <netedit>
-        <SUMOConfig-output value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\1232142.sumocfg"/>
+        <SUMOConfig-output value="C:\Users\User\Documents\GitHub\akadem_streets\2023-07-10-16-42-08\1232142.sumocfg"/>
         <additional-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.poly.xml.gz"/>
         <route-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.passenger.trips.xml"/>
     </netedit>
@@ -56,7 +56,7 @@
             <param key="origId" value="1059305957"/>
         </lane>
     </edge>
-    <edge id="-117618466" from="1324672413" to="1324672414" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-117618466" from="1324672413" to="1324672414" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618466"/>
         </lane>
@@ -64,7 +64,7 @@
             <param key="origId" value="117618466"/>
         </lane>
     </edge>
-    <edge id="-117618489" from="1324672477" to="1324672475" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-117618489" from="1324672477" to="1324672475" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618489"/>
         </lane>
@@ -72,7 +72,7 @@
             <param key="origId" value="117618489"/>
         </lane>
     </edge>
-    <edge id="-117618543" from="1324673520" to="1324673521" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-117618543" from="1324673520" to="1324673521" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618543"/>
         </lane>
@@ -209,12 +209,12 @@
             <param key="origId" value="26175439"/>
         </lane>
     </edge>
-    <edge id="-27207208#0" from="282272147" to="252966618" name="Русская улица" priority="13" type="highway.trunk" numLanes="1" speed="13.89" shape="796.75,4709.28 930.82,4731.65 970.25,4737.19" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-27207208#0" from="282272147" to="252966618" name="Русская улица" priority="13" type="highway.trunk" numLanes="1" speed="13.89" shape="796.75,4709.28 930.82,4731.65 970.25,4737.19" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207208"/>
         </lane>
     </edge>
-    <edge id="-27207208#4" from="302732269" to="282272147" name="Русская улица" priority="13" type="highway.trunk" numLanes="1" speed="13.89" shape="626.78,4679.00 680.94,4688.63 746.09,4700.30 763.72,4703.40 786.10,4707.38 796.75,4709.28" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-27207208#4" from="302732269" to="282272147" name="Русская улица" priority="13" type="highway.trunk" numLanes="1" speed="13.89" shape="626.78,4679.00 680.94,4688.63 746.09,4700.30 763.72,4703.40 786.10,4707.38 796.75,4709.28" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207208"/>
         </lane>
@@ -247,7 +247,7 @@
             <param key="origId" value="309631702"/>
         </lane>
     </edge>
-    <edge id="-310175395#1" from="252966638" to="252966618" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="1039.58,4742.22 987.49,4738.45 970.25,4737.19" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-310175395#1" from="252966638" to="252966618" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="1039.58,4742.22 987.49,4738.45 970.25,4737.19" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175395"/>
         </lane>
@@ -255,7 +255,7 @@
             <param key="origId" value="310175395"/>
         </lane>
     </edge>
-    <edge id="-310175395#2" from="3155583469" to="252966638" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-310175395#2" from="3155583469" to="252966638" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175395"/>
         </lane>
@@ -263,7 +263,7 @@
             <param key="origId" value="310175395"/>
         </lane>
     </edge>
-    <edge id="-310175396" from="3155583470" to="3155583469" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="-310175396" from="3155583470" to="3155583469" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175396"/>
         </lane>
@@ -889,7 +889,7 @@
             <param key="origId" value="1101953228"/>
         </lane>
     </edge>
-    <edge id="117618466" from="1324672414" to="1324672413" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="117618466" from="1324672414" to="1324672413" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618466"/>
         </lane>
@@ -897,7 +897,7 @@
             <param key="origId" value="117618466"/>
         </lane>
     </edge>
-    <edge id="117618489" from="1324672475" to="1324672477" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="117618489" from="1324672475" to="1324672477" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618489"/>
         </lane>
@@ -905,7 +905,7 @@
             <param key="origId" value="117618489"/>
         </lane>
     </edge>
-    <edge id="117618543" from="1324673521" to="1324673520" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="117618543" from="1324673521" to="1324673520" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="117618543"/>
         </lane>
@@ -944,7 +944,7 @@
             <param key="origId" value="134024020"/>
         </lane>
     </edge>
-    <edge id="134024021" from="252705264" to="1756317090" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="134024021" from="252705264" to="1756317090" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="134024021"/>
         </lane>
@@ -1081,7 +1081,7 @@
             <param key="origId" value="158634332"/>
         </lane>
     </edge>
-    <edge id="163975773" from="1756317090" to="209908111" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="6" speed="13.89" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="163975773" from="1756317090" to="209908111" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="6" speed="13.89" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="163975773"/>
         </lane>
@@ -1226,7 +1226,7 @@
             <param key="origId" value="26175440 114925775 114925775 114925775 114925775 86127805 86127805"/>
         </lane>
     </edge>
-    <edge id="27207208#0" from="252966618" to="282272147" name="Русская улица" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="970.25,4737.19 930.82,4731.65 796.75,4709.28" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27207208#0" from="252966618" to="282272147" name="Русская улица" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="970.25,4737.19 930.82,4731.65 796.75,4709.28" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207208"/>
         </lane>
@@ -1234,7 +1234,7 @@
             <param key="origId" value="27207208"/>
         </lane>
     </edge>
-    <edge id="27207208#1" from="282272147" to="302732269" name="Русская улица" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="796.75,4709.28 786.10,4707.38 763.72,4703.40 746.09,4700.30 680.94,4688.63 626.78,4679.00" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27207208#1" from="282272147" to="302732269" name="Русская улица" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="796.75,4709.28 786.10,4707.38 763.72,4703.40 746.09,4700.30 680.94,4688.63 626.78,4679.00" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207208"/>
         </lane>
@@ -1242,7 +1242,7 @@
             <param key="origId" value="27207208"/>
         </lane>
     </edge>
-    <edge id="27207212#0" from="275495476" to="662892802" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27207212#0" from="275495476" to="662892802" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207212"/>
         </lane>
@@ -1250,7 +1250,7 @@
             <param key="origId" value="27207212"/>
         </lane>
     </edge>
-    <edge id="27207212#1" from="662892802" to="653112173" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="2176.64,2963.44 2132.35,2979.25 2052.60,3000.85" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27207212#1" from="662892802" to="653112173" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="2176.64,2963.44 2132.35,2979.25 2052.60,3000.85" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207212"/>
         </lane>
@@ -1258,7 +1258,7 @@
             <param key="origId" value="27207212"/>
         </lane>
     </edge>
-    <edge id="27207213#0" from="252966717" to="252966600" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="2235.54,7299.98 2222.37,7115.48 2214.53,7059.99 2208.33,7016.05 2168.63,6882.57 2106.12,6746.09 1939.60,6432.51 1855.02,6272.98 1747.46,6070.30 1637.67,5865.67 1617.07,5828.87 1295.75,5228.41 1251.72,5139.01 1216.29,5070.81 1153.48,4949.95 1112.65,4889.59 1101.04,4870.18 1089.62,4845.95 1080.91,4817.30" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27207213#0" from="252966717" to="252966600" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="2235.54,7299.98 2222.37,7115.48 2214.53,7059.99 2208.33,7016.05 2168.63,6882.57 2106.12,6746.09 1939.60,6432.51 1855.02,6272.98 1747.46,6070.30 1637.67,5865.67 1617.07,5828.87 1295.75,5228.41 1251.72,5139.01 1216.29,5070.81 1153.48,4949.95 1112.65,4889.59 1101.04,4870.18 1089.62,4845.95 1080.91,4817.30" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27207213"/>
         </lane>
@@ -1284,7 +1284,7 @@
             <param key="origId" value="27475288"/>
         </lane>
     </edge>
-    <edge id="27478484#0" from="209908111" to="252705265" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2277.99,7298.67 2277.73,7328.49 2273.78,7425.33" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27478484#0" from="209908111" to="252705265" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2277.99,7298.67 2277.73,7328.49 2273.78,7425.33" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27478484"/>
         </lane>
@@ -1295,7 +1295,7 @@
             <param key="origId" value="27478484"/>
         </lane>
     </edge>
-    <edge id="27478484#2" from="27478484#2-AddedOnRampNode" to="612410967" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2256.53,7523.55 2254.98,7550.74 2257.85,7818.07 2258.98,7923.37 2266.49,8092.96" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27478484#2" from="27478484#2-AddedOnRampNode" to="612410967" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2256.53,7523.55 2254.98,7550.74 2257.85,7818.07 2258.98,7923.37 2266.49,8092.96" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="27478484"/>
         </lane>
@@ -1306,7 +1306,7 @@
             <param key="origId" value="27478484"/>
         </lane>
     </edge>
-    <edge id="27478484#2-AddedOnRampEdge" from="252705265" to="27478484#2-AddedOnRampNode" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="22.22" shape="2275.33,7425.72 2267.09,7458.83 2259.63,7497.22 2258.12,7523.64" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="27478484#2-AddedOnRampEdge" from="252705265" to="27478484#2-AddedOnRampNode" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="22.22" shape="2275.33,7425.72 2267.09,7458.83 2259.63,7497.22 2258.12,7523.64" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0" acceleration="1">
             <param key="origId" value="27478484"/>
         </lane>
@@ -1358,7 +1358,7 @@
             <param key="origId" value="309631702"/>
         </lane>
     </edge>
-    <edge id="310175395#0" from="252966618" to="252966638" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="970.25,4737.19 987.49,4738.45 1039.58,4742.22" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="310175395#0" from="252966618" to="252966638" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="970.25,4737.19 987.49,4738.45 1039.58,4742.22" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175395"/>
         </lane>
@@ -1366,7 +1366,7 @@
             <param key="origId" value="310175395"/>
         </lane>
     </edge>
-    <edge id="310175395#2" from="252966638" to="3155583469" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="310175395#2" from="252966638" to="3155583469" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175395"/>
         </lane>
@@ -1374,7 +1374,7 @@
             <param key="origId" value="310175395"/>
         </lane>
     </edge>
-    <edge id="310175396" from="3155583469" to="3155583470" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="310175396" from="3155583469" to="3155583470" priority="13" type="highway.trunk" numLanes="2" speed="13.89" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="310175396"/>
         </lane>
@@ -1382,7 +1382,7 @@
             <param key="origId" value="310175396"/>
         </lane>
     </edge>
-    <edge id="33055472#0" from="252613859" to="209908088" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3729.76,1598.30 3713.04,1638.92 3693.04,1677.88" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="33055472#0" from="252613859" to="209908088" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3729.76,1598.30 3713.04,1638.92 3693.04,1677.88" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="33055472"/>
         </lane>
@@ -1619,7 +1619,7 @@
             <param key="origId" value="485053283 124186699 485067571 485067571"/>
         </lane>
     </edge>
-    <edge id="485053284" from="209908088" to="299442836" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3693.04,1677.88 3668.56,1714.76 3644.81,1744.75" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="485053284" from="209908088" to="299442836" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3693.04,1677.88 3668.56,1714.76 3644.81,1744.75" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="485053284"/>
         </lane>
@@ -1682,7 +1682,7 @@
             <param key="origId" value="485053288 485053288 146587943"/>
         </lane>
     </edge>
-    <edge id="49039484#0" from="299442836" to="252953130" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3644.81,1744.75 3628.54,1759.54 3610.63,1773.72 3566.59,1801.94 3539.56,1822.54 3520.90,1839.71 3500.30,1861.95 3468.20,1901.96 3362.81,2031.55 3249.64,2168.60 3101.09,2347.00 2907.77,2582.13 2881.04,2612.59 2847.75,2647.83 2820.28,2673.65 2786.69,2700.96 2739.82,2736.80 2708.01,2758.74 2676.81,2776.36 2650.38,2793.37 2627.40,2814.42 2606.65,2835.47 2585.44,2848.62 2570.00,2855.69" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="49039484#0" from="299442836" to="252953130" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3644.81,1744.75 3628.54,1759.54 3610.63,1773.72 3566.59,1801.94 3539.56,1822.54 3520.90,1839.71 3500.30,1861.95 3468.20,1901.96 3362.81,2031.55 3249.64,2168.60 3101.09,2347.00 2907.77,2582.13 2881.04,2612.59 2847.75,2647.83 2820.28,2673.65 2786.69,2700.96 2739.82,2736.80 2708.01,2758.74 2676.81,2776.36 2650.38,2793.37 2627.40,2814.42 2606.65,2835.47 2585.44,2848.62 2570.00,2855.69" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="49039484 764420324 764420324 764420324"/>
         </lane>
@@ -1721,7 +1721,7 @@
             <param key="origId" value="51142644"/>
         </lane>
     </edge>
-    <edge id="51189676#0" from="301563184" to="372812402" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2554.53,2816.53 2587.69,2802.63 2618.43,2787.86 2665.87,2761.67 2697.03,2742.07 2728.07,2720.64 2774.33,2685.28 2807.12,2658.61 2833.64,2633.68 2866.28,2599.14 2892.55,2569.22 3085.71,2334.28 3234.28,2155.86 3347.33,2018.93 3452.73,1889.34 3502.04,1830.51 3532.85,1793.44 3564.80,1754.32 3595.40,1712.67" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51189676#0" from="301563184" to="372812402" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2554.53,2816.53 2587.69,2802.63 2618.43,2787.86 2665.87,2761.67 2697.03,2742.07 2728.07,2720.64 2774.33,2685.28 2807.12,2658.61 2833.64,2633.68 2866.28,2599.14 2892.55,2569.22 3085.71,2334.28 3234.28,2155.86 3347.33,2018.93 3452.73,1889.34 3502.04,1830.51 3532.85,1793.44 3564.80,1754.32 3595.40,1712.67" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51189676"/>
         </lane>
@@ -1729,7 +1729,7 @@
             <param key="origId" value="51189676"/>
         </lane>
     </edge>
-    <edge id="51189678" from="653112173" to="653112171" priority="13" type="highway.trunk" numLanes="3" speed="13.89" shape="2052.60,3000.85 2037.46,2991.97 2031.25,2982.88 2030.19,2971.19 2033.82,2959.24" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51189678" from="653112173" to="653112171" priority="13" type="highway.trunk" numLanes="3" speed="13.89" shape="2052.60,3000.85 2037.46,2991.97 2031.25,2982.88 2030.19,2971.19 2033.82,2959.24" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51189678"/>
         </lane>
@@ -1740,7 +1740,7 @@
             <param key="origId" value="51189678"/>
         </lane>
     </edge>
-    <edge id="51189679" from="372812405" to="653112180" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3675.71,1570.99 3697.22,1513.07 3711.25,1468.43 3721.10,1427.38 3728.54,1389.42 3735.14,1356.18 3740.35,1319.93 3744.45,1273.31 3748.00,1203.41 3750.38,1119.99 3750.68,994.39 3752.17,908.76 3763.33,491.21 3765.29,372.93 3766.18,248.72 3764.47,167.80 3764.17,117.33 3762.90,0.00" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51189679" from="372812405" to="653112180" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3675.71,1570.99 3697.22,1513.07 3711.25,1468.43 3721.10,1427.38 3728.54,1389.42 3735.14,1356.18 3740.35,1319.93 3744.45,1273.31 3748.00,1203.41 3750.38,1119.99 3750.68,994.39 3752.17,908.76 3763.33,491.21 3765.29,372.93 3766.18,248.72 3764.47,167.80 3764.17,117.33 3762.90,0.00" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51189679"/>
         </lane>
@@ -1772,7 +1772,7 @@
             <param key="origId" value="51270415"/>
         </lane>
     </edge>
-    <edge id="51270418" from="301563184" to="252953130" name="Бердское шоссе" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="2554.53,2816.53 2565.19,2822.41 2571.75,2831.66 2573.16,2842.91 2570.00,2855.69" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270418" from="301563184" to="252953130" name="Бердское шоссе" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="2554.53,2816.53 2565.19,2822.41 2571.75,2831.66 2573.16,2842.91 2570.00,2855.69" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270418"/>
         </lane>
@@ -1783,7 +1783,7 @@
             <param key="origId" value="51270418"/>
         </lane>
     </edge>
-    <edge id="51270435#0" from="209908105" to="252705264" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="1109.28,4779.19 1118.96,4823.00 1129.70,4856.47 1142.53,4886.90 1248.20,5087.48 1269.91,5128.82 1413.94,5400.34 1465.42,5497.41 1567.65,5690.13 1626.72,5799.68 1646.44,5836.24 1765.61,6063.37 1876.69,6272.20 2123.15,6738.51 2181.96,6875.41 2203.55,6939.47 2226.04,7015.61 2250.40,7111.28 2265.30,7171.37" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270435#0" from="209908105" to="252705264" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="1109.28,4779.19 1118.96,4823.00 1129.70,4856.47 1142.53,4886.90 1248.20,5087.48 1269.91,5128.82 1413.94,5400.34 1465.42,5497.41 1567.65,5690.13 1626.72,5799.68 1646.44,5836.24 1765.61,6063.37 1876.69,6272.20 2123.15,6738.51 2181.96,6875.41 2203.55,6939.47 2226.04,7015.61 2250.40,7111.28 2265.30,7171.37" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270435"/>
         </lane>
@@ -1791,7 +1791,7 @@
             <param key="origId" value="51270435"/>
         </lane>
     </edge>
-    <edge id="51270445" from="3155583470" to="209908105" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1106.78,4746.18 1107.70,4764.05 1109.28,4779.19" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270445" from="3155583470" to="209908105" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1106.78,4746.18 1107.70,4764.05 1109.28,4779.19" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270445"/>
         </lane>
@@ -1805,7 +1805,7 @@
             <param key="origId" value="51270445"/>
         </lane>
     </edge>
-    <edge id="51270448#0" from="252966644" to="653112171" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="1074.96,4689.94 1088.30,4647.21 1104.39,4610.52 1131.84,4558.26 1292.95,4194.72 1719.88,3231.43 1758.75,3169.28 1789.85,3126.62 1829.85,3084.44 1926.73,3015.84 1987.78,2986.59 2033.82,2959.24" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270448#0" from="252966644" to="653112171" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="1074.96,4689.94 1088.30,4647.21 1104.39,4610.52 1131.84,4558.26 1292.95,4194.72 1719.88,3231.43 1758.75,3169.28 1789.85,3126.62 1829.85,3084.44 1926.73,3015.84 1987.78,2986.59 2033.82,2959.24" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270448"/>
         </lane>
@@ -1813,7 +1813,7 @@
             <param key="origId" value="51270448"/>
         </lane>
     </edge>
-    <edge id="51270450" from="252966600" to="252966605" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270450" from="252966600" to="252966605" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270450"/>
         </lane>
@@ -1821,7 +1821,7 @@
             <param key="origId" value="51270450"/>
         </lane>
     </edge>
-    <edge id="51270451" from="252966605" to="3155583469" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51270451" from="252966605" to="3155583469" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51270451"/>
         </lane>
@@ -1859,7 +1859,7 @@
             <param key="origId" value="51272633"/>
         </lane>
     </edge>
-    <edge id="51341652" from="252953127" to="275495476" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2446.56,2896.79 2386.44,2901.91 2361.21,2904.02 2329.19,2910.90 2251.55,2932.97" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51341652" from="252953127" to="275495476" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2446.56,2896.79 2386.44,2901.91 2361.21,2904.02 2329.19,2910.90 2251.55,2932.97" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51341652 25291193"/>
         </lane>
@@ -1867,7 +1867,7 @@
             <param key="origId" value="51341652 25291193"/>
         </lane>
     </edge>
-    <edge id="51479703" from="252953127" to="654169668" name="Бердское шоссе" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="2446.56,2896.79 2438.30,2890.87 2433.90,2881.38 2432.69,2868.99 2434.89,2858.55" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479703" from="252953127" to="654169668" name="Бердское шоссе" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="2446.56,2896.79 2438.30,2890.87 2433.90,2881.38 2432.69,2868.99 2434.89,2858.55" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479703"/>
         </lane>
@@ -1878,7 +1878,7 @@
             <param key="origId" value="51479703"/>
         </lane>
     </edge>
-    <edge id="51479704#0" from="654169668" to="301563184" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2434.89,2858.55 2478.41,2842.95 2523.05,2828.17 2554.53,2816.53" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479704#0" from="654169668" to="301563184" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2434.89,2858.55 2478.41,2842.95 2523.05,2828.17 2554.53,2816.53" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479704"/>
         </lane>
@@ -1886,7 +1886,7 @@
             <param key="origId" value="51479704"/>
         </lane>
     </edge>
-    <edge id="51479705#0" from="252953130" to="209908095" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2570.00,2855.69 2537.02,2869.51 2513.28,2879.76" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479705#0" from="252953130" to="209908095" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2570.00,2855.69 2537.02,2869.51 2513.28,2879.76" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479705"/>
         </lane>
@@ -1894,7 +1894,7 @@
             <param key="origId" value="51479705"/>
         </lane>
     </edge>
-    <edge id="51479706" from="209908095" to="252953127" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2513.28,2879.76 2476.91,2891.16 2446.56,2896.79" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479706" from="209908095" to="252953127" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2513.28,2879.76 2476.91,2891.16 2446.56,2896.79" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479706"/>
         </lane>
@@ -1902,7 +1902,7 @@
             <param key="origId" value="51479706"/>
         </lane>
     </edge>
-    <edge id="51479707" from="299442836" to="372812402" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="3644.81,1744.75 3626.41,1744.29 3610.95,1738.07 3600.36,1727.48 3595.40,1712.67" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479707" from="299442836" to="372812402" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="3644.81,1744.75 3626.41,1744.29 3610.95,1738.07 3600.36,1727.48 3595.40,1712.67" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479707"/>
         </lane>
@@ -1913,7 +1913,7 @@
             <param key="origId" value="51479707"/>
         </lane>
     </edge>
-    <edge id="51479708" from="372812402" to="372812405" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3595.40,1712.67 3618.99,1678.02 3641.23,1639.96 3658.70,1606.07 3675.71,1570.99" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479708" from="372812402" to="372812405" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="3595.40,1712.67 3618.99,1678.02 3641.23,1639.96 3658.70,1606.07 3675.71,1570.99" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479708"/>
         </lane>
@@ -1921,7 +1921,7 @@
             <param key="origId" value="51479708"/>
         </lane>
     </edge>
-    <edge id="51479709" from="372812405" to="252613859" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="3675.71,1570.99 3690.05,1566.35 3701.70,1566.35 3715.43,1571.72 3724.38,1582.02 3729.76,1598.30" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479709" from="372812405" to="252613859" priority="8" type="highway.trunk_link" numLanes="3" speed="13.89" shape="3675.71,1570.99 3690.05,1566.35 3701.70,1566.35 3715.43,1571.72 3724.38,1582.02 3729.76,1598.30" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479709"/>
         </lane>
@@ -1932,7 +1932,7 @@
             <param key="origId" value="51479709"/>
         </lane>
     </edge>
-    <edge id="51479723#0" from="653112173" to="209908104" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="2052.60,3000.85 1991.87,3011.41 1937.95,3030.35 1887.09,3063.49 1840.58,3100.08 1804.78,3141.12 1773.61,3182.27 1736.18,3239.37 1481.73,3815.48 1308.97,4206.61 1183.27,4491.23 1150.33,4565.80 1127.18,4626.37 1116.69,4655.70 1109.37,4693.48" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479723#0" from="653112173" to="209908104" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="22.22" shape="2052.60,3000.85 1991.87,3011.41 1937.95,3030.35 1887.09,3063.49 1840.58,3100.08 1804.78,3141.12 1773.61,3182.27 1736.18,3239.37 1481.73,3815.48 1308.97,4206.61 1183.27,4491.23 1150.33,4565.80 1127.18,4626.37 1116.69,4655.70 1109.37,4693.48" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479723"/>
         </lane>
@@ -1940,7 +1940,7 @@
             <param key="origId" value="51479723"/>
         </lane>
     </edge>
-    <edge id="51479724#0" from="653112171" to="662892800" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2033.82,2959.24 2060.98,2946.69 2088.45,2938.63 2126.08,2928.80 2170.56,2923.11" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479724#0" from="653112171" to="662892800" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2033.82,2959.24 2060.98,2946.69 2088.45,2938.63 2126.08,2928.80 2170.56,2923.11" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479724"/>
         </lane>
@@ -1948,7 +1948,7 @@
             <param key="origId" value="51479724"/>
         </lane>
     </edge>
-    <edge id="51479724#1" from="662892800" to="654169668" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2170.56,2923.11 2199.23,2919.83 2231.78,2916.54 2251.05,2913.27 2330.64,2891.59 2434.89,2858.55" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51479724#1" from="662892800" to="654169668" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="13.89" shape="2170.56,2923.11 2199.23,2919.83 2231.78,2916.54 2251.05,2913.27 2330.64,2891.59 2434.89,2858.55" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51479724 51189677 166004675"/>
         </lane>
@@ -2004,7 +2004,7 @@
             <param key="origId" value="51984177"/>
         </lane>
     </edge>
-    <edge id="51985375" from="662892800" to="662892802" priority="13" type="highway.trunk" numLanes="3" speed="13.89" shape="2170.56,2923.11 2182.37,2930.38 2186.03,2939.33 2185.61,2949.44 2176.64,2963.44" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="51985375" from="662892800" to="662892802" priority="13" type="highway.trunk" numLanes="3" speed="13.89" shape="2170.56,2923.11 2182.37,2930.38 2186.03,2939.33 2185.61,2949.44 2176.64,2963.44" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="51985375"/>
         </lane>
@@ -2024,7 +2024,7 @@
         </lane>
         <param key="origTo" value="301566721"/>
     </edge>
-    <edge id="521699318" from="3155583469" to="252966644" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1068.72,4743.15 1070.29,4716.70 1074.96,4689.94" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="521699318" from="3155583469" to="252966644" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1068.72,4743.15 1070.29,4716.70 1074.96,4689.94" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="521699318"/>
         </lane>
@@ -2038,7 +2038,7 @@
             <param key="origId" value="521699318"/>
         </lane>
     </edge>
-    <edge id="521699319" from="209908104" to="3155583470" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1109.37,4693.48 1106.72,4719.99 1106.78,4746.18" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="521699319" from="209908104" to="3155583470" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="4" speed="13.89" shape="1109.37,4693.48 1106.72,4719.99 1106.78,4746.18" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="521699319"/>
         </lane>
@@ -2182,7 +2182,7 @@
         </lane>
         <param key="origTo" value="7565019525"/>
     </edge>
-    <edge id="82652591#0" from="275495398" to="252613859" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="3780.33,491.42 3771.26,909.17 3769.77,994.57 3769.47,1120.28 3767.08,1204.19 3763.50,1274.65 3761.94,1292.31 3759.33,1322.11 3753.96,1359.41 3747.38,1392.59 3743.20,1423.03 3741.10,1462.74 3740.36,1530.38 3739.02,1552.03 3735.74,1575.32 3729.76,1598.30" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="82652591#0" from="275495398" to="252613859" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="2" speed="16.67" shape="3780.33,491.42 3771.26,909.17 3769.77,994.57 3769.47,1120.28 3767.08,1204.19 3763.50,1274.65 3761.94,1292.31 3759.33,1322.11 3753.96,1359.41 3747.38,1392.59 3743.20,1423.03 3741.10,1462.74 3740.36,1530.38 3739.02,1552.03 3735.74,1575.32 3729.76,1598.30" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="82652591"/>
         </lane>
@@ -2308,7 +2308,7 @@
             <param key="origId" value="91999878"/>
         </lane>
     </edge>
-    <edge id="92409486#0" from="612410967" to="652618036" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2266.49,8092.96 2274.03,8385.56 2276.57,8483.86 2292.57,8745.91 2295.44,8792.90" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="92409486#0" from="612410967" to="652618036" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2266.49,8092.96 2274.03,8385.56 2276.57,8483.86 2292.57,8745.91 2295.44,8792.90" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="92409486"/>
         </lane>
@@ -2319,7 +2319,7 @@
             <param key="origId" value="92409486"/>
         </lane>
     </edge>
-    <edge id="92409495#0" from="652618036" to="1324672414" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2295.44,8792.90 2300.47,8875.42 2301.72,8909.33 2304.40,8982.22 2308.13,9083.74 2318.53,9366.13 2319.05,9380.48 2326.54,9578.08" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="92409495#0" from="652618036" to="1324672414" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2295.44,8792.90 2300.47,8875.42 2301.72,8909.33 2304.40,8982.22 2308.13,9083.74 2318.53,9366.13 2319.05,9380.48 2326.54,9578.08" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="92409495"/>
         </lane>
@@ -2330,7 +2330,7 @@
             <param key="origId" value="92409495"/>
         </lane>
     </edge>
-    <edge id="92409495#11" from="1324672475" to="1324673521" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="92409495#11" from="1324672475" to="1324673521" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="92409495"/>
         </lane>
@@ -2341,7 +2341,7 @@
             <param key="origId" value="92409495"/>
         </lane>
     </edge>
-    <edge id="92409495#12" from="1324673521" to="252609320" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2369.35,10652.29 2400.69,11390.73 2411.24,11639.18 2412.05,11658.22 2427.92,12032.31 2430.27,12218.92" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="92409495#12" from="1324673521" to="252609320" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2369.35,10652.29 2400.69,11390.73 2411.24,11639.18 2412.05,11658.22 2427.92,12032.31 2430.27,12218.92" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="92409495"/>
         </lane>
@@ -2352,7 +2352,7 @@
             <param key="origId" value="92409495"/>
         </lane>
     </edge>
-    <edge id="92409495#5" from="1324672414" to="1324672475" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2326.54,9578.08 2331.24,9702.09 2341.06,9961.32 2346.40,10082.35 2349.94,10167.93 2350.81,10188.10 2356.86,10357.86 2360.25,10437.93" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="92409495#5" from="1324672414" to="1324672475" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2326.54,9578.08 2331.24,9702.09 2341.06,9961.32 2346.40,10082.35 2349.94,10167.93 2350.81,10188.10 2356.86,10357.86 2360.25,10437.93" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="92409495"/>
         </lane>
@@ -2363,7 +2363,7 @@
             <param key="origId" value="92409495"/>
         </lane>
     </edge>
-    <edge id="93057739#0" from="612410720" to="708613488" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2278.10,8868.09 2271.28,8747.54 2260.22,8551.76" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057739#0" from="612410720" to="708613488" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2278.10,8868.09 2271.28,8747.54 2260.22,8551.76" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057739"/>
         </lane>
@@ -2374,7 +2374,7 @@
             <param key="origId" value="93057739"/>
         </lane>
     </edge>
-    <edge id="93057739#1" from="708613488" to="635921232" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2260.22,8551.76 2256.38,8483.86 2241.40,8094.32" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057739#1" from="708613488" to="635921232" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="16.67" shape="2260.22,8551.76 2256.38,8483.86 2241.40,8094.32" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057739"/>
         </lane>
@@ -2385,7 +2385,7 @@
             <param key="origId" value="93057739"/>
         </lane>
     </edge>
-    <edge id="93057741#0" from="635921232" to="252966717" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2241.40,8094.32 2239.44,7924.30 2239.21,7820.68 2234.69,7638.24 2232.41,7545.78 2235.57,7330.99 2235.54,7299.98" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057741#0" from="635921232" to="252966717" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2241.40,8094.32 2239.44,7924.30 2239.21,7820.68 2234.69,7638.24 2232.41,7545.78 2235.57,7330.99 2235.54,7299.98" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057741"/>
         </lane>
@@ -2396,7 +2396,7 @@
             <param key="origId" value="93057741"/>
         </lane>
     </edge>
-    <edge id="93057745#0" from="1078655161" to="1324673520" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2395.81,12282.96 2405.40,12197.21 2404.90,12032.21 2388.94,11659.73 2377.46,11391.95 2346.48,10669.06 2345.88,10654.96" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057745#0" from="1078655161" to="1324673520" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2395.81,12282.96 2405.40,12197.21 2404.90,12032.21 2388.94,11659.73 2377.46,11391.95 2346.48,10669.06 2345.88,10654.96" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057745"/>
         </lane>
@@ -2407,7 +2407,7 @@
             <param key="origId" value="93057745"/>
         </lane>
     </edge>
-    <edge id="93057745#2" from="1324673520" to="1324672477" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057745#2" from="1324673520" to="1324672477" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057745"/>
         </lane>
@@ -2418,7 +2418,7 @@
             <param key="origId" value="93057745"/>
         </lane>
     </edge>
-    <edge id="93057745#3" from="1324672477" to="1324672413" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2336.62,10438.70 2333.25,10359.99 2326.09,10187.35 2323.95,10138.38 2316.31,9963.27 2305.50,9716.25 2299.52,9579.55" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057745#3" from="1324672477" to="1324672413" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2336.62,10438.70 2333.25,10359.99 2326.09,10187.35 2323.95,10138.38 2316.31,9963.27 2305.50,9716.25 2299.52,9579.55" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057745"/>
         </lane>
@@ -2429,7 +2429,7 @@
             <param key="origId" value="93057745"/>
         </lane>
     </edge>
-    <edge id="93057745#6" from="1324672413" to="612410720" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2299.52,9579.55 2298.85,9550.86 2290.90,9377.64 2290.73,9370.90 2278.53,8876.68 2278.10,8868.09" spreadType="center" disallow="pedestrian passenger tram rail_urban rail rail_electric rail_fast ship">
+    <edge id="93057745#6" from="1324672413" to="612410720" name="Бердское шоссе" priority="13" type="highway.trunk" numLanes="3" speed="22.22" shape="2299.52,9579.55 2298.85,9550.86 2290.90,9377.64 2290.73,9370.90 2278.53,8876.68 2278.10,8868.09" spreadType="center" disallow="pedestrian bicycle tram rail_urban rail rail_electric rail_fast ship">
         <lane index="0">
             <param key="origId" value="93057745"/>
         </lane>
@@ -2668,25 +2668,22 @@
     <edge id="E284" from="J346" to="J347" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E286" from="J347" to="J350" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E287" from="J347" to="J351" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E288" from="J352" to="J353" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E289" from="J353" to="J354" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E29" from="J37" to="J38" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E290" from="J354" to="J355" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E291" from="J355" to="J356" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E292" from="J356" to="J353" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E293" from="J357" to="J358" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E294" from="J359" to="J360" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E295" from="J360" to="J361" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E296" from="J358" to="J362" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E297" from="J363" to="J364" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E298" from="J364" to="J365" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E299" from="J362" to="J365" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E295" from="J315" to="J316" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E296" from="J316" to="J317" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E297" from="J348" to="J349" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E298" from="J315" to="J357" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E299" from="J313" to="J358" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E3" from="J8" to="J10" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E30" from="J39" to="J40" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
-    <edge id="E300" from="J362" to="J366" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E301" from="J368" to="J369" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E302" from="J369" to="J370" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E303" from="J371" to="J372" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E300" from="J348" to="J360" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E301" from="J348" to="J361" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E302" from="J362" to="J363" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E303" from="J317" to="J313" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E304" from="J373" to="J374" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E305" from="J374" to="J375" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E306" from="J375" to="J376" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
@@ -2740,42 +2737,230 @@
     <edge id="E35" from="J46" to="J47" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E350" from="J424" to="J425" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E351" from="J425" to="J426" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E352" from="J426" to="J427" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E353" from="J428" to="J429" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E353" from="J582" to="J429" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E354" from="J430" to="J431" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E355" from="J431" to="J432" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E356" from="J432" to="J429" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E357" from="J432" to="J433" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E357" from="J432" to="J433" priority="11" type="highway.secondary" numLanes="1" speed="13.89" shape="5297.97,5479.29 5303.27,5476.84 5567.11,5119.56"/>
     <edge id="E358" from="J434" to="J435" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E359" from="J436" to="J437" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E36" from="J47" to="J48" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
-    <edge id="E360" from="J439" to="J440" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
-    <edge id="E361" from="J441" to="J442" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E361" from="J569" to="J442" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E362" from="J443" to="J444" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E363" from="J444" to="J445" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E364" from="J445" to="J446" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
     <edge id="E365" from="J446" to="J447" priority="11" type="highway.secondary" numLanes="1" speed="13.89"/>
+    <edge id="E366" from="J317" to="J364" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E367" from="J364" to="J365" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E368" from="J366" to="J367" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E369" from="J367" to="J368" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E37" from="J42" to="J49" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E370" from="J367" to="J369" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E371" from="J369" to="J370" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E372" from="J370" to="J366" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E373" from="J369" to="J371" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E374" from="J361" to="J372" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E375" from="J372" to="J438" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E376" from="J449" to="J450" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E377" from="J450" to="J451" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E378" from="J451" to="J452" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E379" from="J452" to="J453" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E38" from="J49" to="J48" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E380" from="J453" to="J454" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E381" from="J361" to="J455" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E382" from="J455" to="J456" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E383" from="J457" to="J458" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E384" from="J456" to="J459" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E385" from="J459" to="J410" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E386" from="J460" to="J461" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E387" from="J462" to="J463" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E388" from="J463" to="J464" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E389" from="J465" to="J466" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E39" from="J48" to="J50" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E390" from="J466" to="J464" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E391" from="J464" to="J467" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E392" from="J466" to="J468" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E393" from="J468" to="J469" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E394" from="J469" to="J470" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E395" from="J470" to="J471" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E396" from="J470" to="J472" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E397" from="J353" to="J473" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E398" from="J475" to="J476" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E399" from="J476" to="J477" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E4" from="J10" to="J11" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E40" from="J40" to="J51" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E400" from="J477" to="J478" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E401" from="J478" to="J479" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E402" from="J320" to="J480" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E403" from="J480" to="J481" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E404" from="J482" to="J483" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E405" from="J483" to="J484" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E406" from="J484" to="J485" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E407" from="J487" to="J488" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E408" from="J488" to="J489" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E409" from="J489" to="J490" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E41" from="J51" to="J52" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E410" from="J490" to="J491" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E411" from="J491" to="J492" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E412" from="J492" to="J493" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E413" from="J493" to="J494" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E414" from="J494" to="J495" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E415" from="J495" to="J496" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E416" from="J496" to="J497" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E417" from="J497" to="J498" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E418" from="J499" to="J500" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E419" from="J501" to="J502" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E42" from="J52" to="J53" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E420" from="J502" to="J503" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E421" from="J503" to="J504" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E422" from="J505" to="J506" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E423" from="J507" to="J508" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E424" from="J508" to="J509" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E425" from="J509" to="J510" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E427" from="J509" to="J512" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E428" from="J512" to="J513" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E429" from="J513" to="J514" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E43" from="J53" to="J54" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E430" from="J514" to="J515" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E431" from="J516" to="J517" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E432" from="J518" to="J519" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E433" from="J519" to="J520" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E434" from="J520" to="J521" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E435" from="J522" to="J523" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E436" from="J523" to="J524" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E437" from="J524" to="J525" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E438" from="J525" to="J526" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E439" from="J526" to="J527" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E44" from="J55" to="J56" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E440" from="J527" to="J528" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E441" from="J528" to="J529" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E442" from="J529" to="J530" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E443" from="J530" to="J531" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E444" from="J531" to="J532" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E445" from="J532" to="J523" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E446" from="J533" to="J534" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E447" from="J535" to="J536" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E448" from="J537" to="J538" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E449" from="J539" to="J540" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E45" from="J55" to="J57" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E450" from="J508" to="J541" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E451" from="J541" to="J542" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E452" from="J543" to="J544" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E453" from="J544" to="J545" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E454" from="J546" to="J547" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E455" from="J548" to="J549" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E456" from="J550" to="J551" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E457" from="J551" to="J552" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E458" from="J552" to="J553" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E459" from="J554" to="J555" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E46" from="J58" to="J59" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E460" from="583022047" to="J556" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E461" from="J556" to="J557" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E462" from="J557" to="J558" priority="3" type="highway.residential" numLanes="1" speed="13.89" shape="5730.02,4854.69 5695.23,4894.20 5572.63,5038.11 5480.75,5153.92"/>
+    <edge id="E463" from="J558" to="J559" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E464" from="J559" to="J434" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E465" from="J560" to="J561" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E466" from="J445" to="J562" priority="3" type="highway.residential" numLanes="1" speed="13.89" shape="5586.33,5414.12 5578.18,5419.92 5610.04,5445.73"/>
+    <edge id="E467" from="J562" to="J563" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E468" from="J563" to="J564" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E469" from="J564" to="J565" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E47" from="J58" to="J60" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E470" from="J565" to="J566" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E471" from="J566" to="J567" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E472" from="J567" to="J444" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E473" from="J446" to="J568" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E474" from="J447" to="J437" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E475" from="J437" to="J569" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E476" from="J569" to="J570" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E477" from="J571" to="J572" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E478" from="J572" to="J573" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E479" from="J573" to="J574" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E48" from="J60" to="J61" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E480" from="J575" to="J576" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E481" from="J577" to="J578" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E482" from="J579" to="J580" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E483" from="J429" to="J581" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E485" from="J583" to="J584" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E486" from="J584" to="J585" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E487" from="J586" to="J587" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E488" from="J587" to="J588" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E489" from="J588" to="J589" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E49" from="J61" to="473745232" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E490" from="J590" to="J591" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E491" from="J592" to="J593" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E492" from="J593" to="J594" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E493" from="J595" to="J596" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E494" from="J596" to="J597" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E495" from="J597" to="J598" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E496" from="J599" to="J600" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E497" from="J600" to="J601" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E498" from="J601" to="J602" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E499" from="J594" to="J603" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E5" from="J11" to="J12" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E50" from="J61" to="J62" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E500" from="J603" to="J604" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E501" from="J603" to="J605" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E502" from="J605" to="J606" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E503" from="J606" to="J607" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E504" from="J608" to="J609" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E505" from="J609" to="J610" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E506" from="J611" to="J612" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E507" from="J613" to="J614" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E508" from="J614" to="J615" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E509" from="J616" to="J617" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E51" from="J62" to="J63" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E510" from="J614" to="J618" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E511" from="J618" to="J619" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E512" from="J619" to="J620" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E513" from="J620" to="J621" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E514" from="J621" to="J622" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E515" from="J622" to="J623" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E516" from="J623" to="J624" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E517" from="J624" to="J625" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E518" from="J625" to="J626" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E519" from="J626" to="J627" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E52" from="J62" to="J64" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E520" from="J627" to="J628" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E521" from="J628" to="J621" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E522" from="J625" to="J629" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E523" from="J629" to="J630" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E524" from="J630" to="J631" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E525" from="J631" to="J624" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E526" from="J631" to="J632" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E527" from="J633" to="J618" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E528" from="J618" to="J634" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E529" from="J634" to="J632" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E53" from="J64" to="J65" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E530" from="J635" to="J636" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E531" from="J637" to="J638" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E532" from="J561" to="J639" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E533" from="J639" to="J640" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E534" from="J640" to="J641" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E535" from="J555" to="J642" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E536" from="J643" to="J644" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E537" from="J645" to="J646" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E538" from="J581" to="J580" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E539" from="J647" to="J648" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E54" from="J64" to="J66" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E540" from="J648" to="J649" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E541" from="J649" to="J650" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E542" from="J650" to="J651" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E543" from="J651" to="J652" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E544" from="J652" to="J653" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E545" from="J653" to="J654" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E546" from="J654" to="J647" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E547" from="J651" to="J655" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E548" from="J655" to="J656" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E549" from="J656" to="J657" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E55" from="J67" to="J68" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
+    <edge id="E550" from="J657" to="J658" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E551" from="J658" to="J659" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E552" from="J659" to="J660" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E553" from="J660" to="J661" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E554" from="J661" to="J662" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E555" from="J662" to="J663" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E556" from="J663" to="J664" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
+    <edge id="E557" from="J664" to="J665" priority="3" type="highway.residential" numLanes="1" speed="13.89"/>
     <edge id="E56" from="J68" to="J69" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E57" from="J68" to="J70" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
     <edge id="E58" from="J71" to="J72" priority="12" type="highway.primary" numLanes="1" speed="40.00"/>
