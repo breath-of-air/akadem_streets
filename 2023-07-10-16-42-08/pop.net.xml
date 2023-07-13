@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-12 12:38:48 by Eclipse SUMO netedit Version 1.15.0
+<!-- generated on 2023-07-12 15:05:14 by Eclipse SUMO netedit Version 1.15.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <input>
@@ -32,7 +32,7 @@
     </pedestrian>
 
     <netedit>
-        <SUMOConfig-output value="C:\Users\User\Documents\GitHub\akadem_streets\2023-07-10-16-42-08\1232142.sumocfg"/>
+        <SUMOConfig-output value="C:\Users\User\Documents\GitHub\akadem_streets\2023-07-10-16-42-08\67.sumocfg"/>
         <additional-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.poly.xml.gz"/>
         <route-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.passenger.trips.xml"/>
     </netedit>
@@ -4727,7 +4727,7 @@
         <lane id=":J597_0_0" index="0" speed="13.89" length="0.92" shape="5616.75,4840.95 5617.01,4840.86 5617.18,4840.77 5617.32,4840.65 5617.50,4840.44"/>
     </edge>
     <edge id=":J6_w0" function="walkingarea">
-        <lane id=":J6_w0_0" index="0" allow="pedestrian" speed="1.00" length="0.10" width="3.20" shape="4599.00,4090.36 4602.03,4091.38 4605.07,4092.40"/>
+        <lane id=":J6_w0_0" index="0" allow="pedestrian" speed="1.00" length="0.10" width="3.20" shape="4598.79,4089.33 4601.86,4088.44 4604.94,4087.56"/>
     </edge>
     <edge id=":J60_0" function="internal">
         <lane id=":J60_0_0" index="0" speed="4.23" length="1.27" shape="5676.06,3113.04 5676.11,3113.40 5676.20,3113.65 5676.36,3113.86 5676.64,3114.10"/>
@@ -4946,7 +4946,7 @@
         <lane id=":J660_0_0" index="0" speed="3.90" length="2.58" shape="4583.06,4288.48 4582.66,4287.90 4582.18,4287.58 4581.60,4287.52 4580.92,4287.74"/>
     </edge>
     <edge id=":J661_0" function="internal">
-        <lane id=":J661_0_0" index="0" speed="3.91" length="2.51" shape="4533.49,4310.54 4532.92,4310.92 4532.60,4311.39 4532.53,4311.96 4532.72,4312.62"/>
+        <lane id=":J661_0_0" index="0" speed="3.91" length="2.51" shape="4533.46,4310.54 4532.89,4310.92 4532.57,4311.39 4532.51,4311.96 4532.69,4312.62"/>
     </edge>
     <edge id=":J662_0" function="internal">
         <lane id=":J662_0_0" index="0" speed="4.30" length="1.17" shape="4562.12,4380.25 4562.24,4380.57 4562.29,4380.81 4562.27,4381.05 4562.17,4381.38"/>
@@ -4967,7 +4967,7 @@
         <lane id=":J68_w0_0" index="0" allow="pedestrian" speed="1.00" length="9.36" width="3.20" shape="6266.73,3552.32 6264.32,3550.22 6258.91,3550.80 6257.00,3553.36 6259.87,3560.11 6262.26,3562.25"/>
     </edge>
     <edge id=":J7_w0" function="walkingarea">
-        <lane id=":J7_w0_0" index="0" allow="pedestrian" speed="1.00" length="7.70" width="3.20" shape="4432.22,4576.72 4435.41,4576.58 4442.96,4573.59 4439.93,4572.57 4436.89,4571.55 4431.46,4571.75 4430.70,4574.86"/>
+        <lane id=":J7_w0_0" index="0" allow="pedestrian" speed="1.00" length="7.71" width="3.20" shape="4432.22,4576.72 4435.41,4576.58 4442.97,4573.61 4439.94,4572.58 4436.91,4571.55 4431.46,4571.75 4430.70,4574.86"/>
     </edge>
     <edge id=":J70_0" function="internal">
         <lane id=":J70_0_0" index="0" speed="40.00" length="0.29" shape="6318.88,3489.97 6319.07,3489.75"/>
@@ -7578,9 +7578,9 @@
     <edge id="E0" from="J46" to="J0" priority="-1">
         <lane id="E0_0" index="0" disallow="pedestrian" speed="13.89" length="45.76" shape="5691.89,2517.46 5646.49,2523.22"/>
     </edge>
-    <edge id="E1" from="J6" to="J7" priority="12" type="highway.primary">
-        <lane id="E1_0" index="0" speed="40.00" length="507.76" shape="4603.55,4091.89 4441.44,4573.08"/>
-        <lane id="E1_1" index="1" speed="40.00" length="507.76" shape="4600.52,4090.87 4438.41,4572.06"/>
+    <edge id="E1" from="J6" to="J7" priority="12" type="highway.primary" shape="4598.79,4089.33 4599.65,4092.31 4435.39,4576.01">
+        <lane id="E1_0" index="0" speed="40.00" length="511.23" shape="4603.40,4088.00 4604.68,4092.43 4441.45,4573.09"/>
+        <lane id="E1_1" index="1" speed="40.00" length="511.23" shape="4600.33,4088.89 4601.33,4092.35 4438.42,4572.06"/>
     </edge>
     <edge id="E10" from="J16" to="J17" priority="12" type="highway.primary">
         <lane id="E10_0" index="0" speed="40.00" length="59.46" shape="5551.66,1862.67 5576.98,1808.87"/>
@@ -8513,7 +8513,7 @@
         <lane id="E385_0" index="0" speed="13.89" length="136.31" shape="3956.30,5611.53 4085.56,5568.25"/>
     </edge>
     <edge id="E386" from="J460" to="J461" priority="3" type="highway.residential">
-        <lane id="E386_0" index="0" speed="13.89" length="242.96" shape="3929.94,5613.84 3972.01,5853.13"/>
+        <lane id="E386_0" index="0" speed="13.89" length="244.45" shape="3929.93,5613.82 3975.96,5853.90"/>
     </edge>
     <edge id="E387" from="J462" to="J463" priority="3" type="highway.residential">
         <lane id="E387_0" index="0" speed="13.89" length="72.40" shape="3954.23,5753.69 4025.26,5739.67"/>
@@ -9064,11 +9064,11 @@
     <edge id="E552" from="J659" to="J660" priority="3" type="highway.residential">
         <lane id="E552_0" index="0" speed="13.89" length="120.43" shape="4635.34,4396.98 4583.06,4288.48"/>
     </edge>
-    <edge id="E553" from="J660" to="J661" priority="3" type="highway.residential">
-        <lane id="E553_0" index="0" speed="13.89" length="52.63" shape="4580.92,4287.74 4533.49,4310.54"/>
+    <edge id="E553" from="J660" to="J661" priority="3" type="highway.residential" shape="4583.11,4284.91 4536.90,4307.12 4529.99,4310.43">
+        <lane id="E553_0" index="0" speed="13.89" length="52.65" shape="4580.92,4287.74 4537.59,4308.56 4533.46,4310.54"/>
     </edge>
     <edge id="E554" from="J661" to="J662" priority="3" type="highway.residential">
-        <lane id="E554_0" index="0" speed="13.89" length="73.75" shape="4532.72,4312.62 4562.12,4380.25"/>
+        <lane id="E554_0" index="0" speed="13.89" length="73.76" shape="4532.69,4312.62 4562.12,4380.25"/>
     </edge>
     <edge id="E555" from="J662" to="J663" priority="3" type="highway.residential">
         <lane id="E555_0" index="0" speed="13.89" length="22.34" shape="4562.17,4381.38 4555.40,4402.67"/>
@@ -11594,8 +11594,8 @@
         <request index="0" response="00" foes="00" cont="0"/>
         <request index="1" response="00" foes="00" cont="0"/>
     </junction>
-    <junction id="J460" type="dead_end" x="3928.36" y="5614.12" incLanes="" intLanes="" shape="3928.36,5614.12 3931.51,5613.57"/>
-    <junction id="J461" type="dead_end" x="3970.43" y="5853.41" incLanes="E386_0" intLanes="" shape="3973.58,5852.86 3970.43,5853.41"/>
+    <junction id="J460" type="dead_end" x="3928.36" y="5614.12" incLanes="" intLanes="" shape="3928.36,5614.12 3931.50,5613.52"/>
+    <junction id="J461" type="dead_end" x="3974.39" y="5854.20" incLanes="E386_0" intLanes="" shape="3977.53,5853.60 3974.39,5854.20"/>
     <junction id="J462" type="dead_end" x="3954.54" y="5755.26" incLanes="" intLanes="" shape="3954.54,5755.26 3953.92,5752.12"/>
     <junction id="J463" type="priority" x="4025.57" y="5741.24" incLanes="E387_0" intLanes=":J463_0_0" shape="4025.57,5741.24 4028.69,5740.53 4027.97,5738.91 4027.41,5738.41 4026.72,5738.10 4025.90,5738.00 4024.95,5738.10">
         <request index="0" response="0" foes="0" cont="0"/>
@@ -11903,7 +11903,7 @@
     </junction>
     <junction id="J598" type="dead_end" x="5675.39" y="4772.21" incLanes="E495_0" intLanes="" shape="5672.91,4770.18 5675.39,4772.21"/>
     <junction id="J599" type="dead_end" x="5593.97" y="4845.36" incLanes="" intLanes="" shape="5593.97,4845.36 5591.99,4847.87"/>
-    <junction id="J6" type="dead_end" x="4599.00" y="4090.36" incLanes="" intLanes="" shape="4599.00,4090.36 4605.07,4092.40"/>
+    <junction id="J6" type="dead_end" x="4598.79" y="4089.33" incLanes="" intLanes="" shape="4598.79,4089.33 4604.94,4087.56"/>
     <junction id="J60" type="priority" x="5674.62" y="3114.52" incLanes="E47_0" intLanes=":J60_0_0" shape="5675.64,3115.34 5677.65,3112.85 5674.47,3113.22 5674.63,3114.14 5674.75,3114.45 5674.95,3114.72 5675.23,3115.00">
         <request index="0" response="0" foes="0" cont="0"/>
     </junction>
@@ -12067,10 +12067,10 @@
         <request index="0" response="0" foes="0" cont="0"/>
     </junction>
     <junction id="J66" type="dead_end" x="6375.66" y="3531.56" incLanes="E54_0" intLanes="" shape="6377.61,3529.02 6375.66,3531.56"/>
-    <junction id="J660" type="priority" x="4583.11" y="4284.91" incLanes="E552_0" intLanes=":J660_0_0" shape="4581.62,4289.18 4584.50,4287.79 4583.41,4286.34 4582.74,4285.98 4581.98,4285.85 4581.15,4285.95 4580.23,4286.30">
+    <junction id="J660" type="priority" x="4583.11" y="4284.91" incLanes="E552_0" intLanes=":J660_0_0" shape="4581.61,4289.18 4584.50,4287.79 4583.41,4286.34 4582.74,4285.98 4581.98,4285.85 4581.15,4285.95 4580.23,4286.29">
         <request index="0" response="0" foes="0" cont="0"/>
     </junction>
-    <junction id="J661" type="priority" x="4530.02" y="4310.43" incLanes="E553_0" intLanes=":J661_0_0" shape="4531.25,4313.26 4534.18,4311.98 4532.80,4309.10 4531.39,4310.15 4531.02,4310.80 4530.87,4311.54 4530.95,4312.35">
+    <junction id="J661" type="priority" x="4529.99" y="4310.43" incLanes="E553_0" intLanes=":J661_0_0" shape="4531.22,4313.26 4534.16,4311.98 4532.77,4309.10 4531.36,4310.15 4530.99,4310.80 4530.85,4311.54 4530.92,4312.36">
         <request index="0" response="0" foes="0" cont="0"/>
     </junction>
     <junction id="J662" type="priority" x="4560.65" y="4380.89" incLanes="E554_0" intLanes=":J662_0_0" shape="4563.58,4379.61 4560.65,4380.89 4563.70,4381.86 4563.92,4381.03 4563.94,4380.72 4563.89,4380.42 4563.77,4380.06">
@@ -12089,7 +12089,7 @@
         <request index="1" response="00" foes="00" cont="0"/>
     </junction>
     <junction id="J69" type="dead_end" x="6214.68" y="3610.49" incLanes="E56_0" intLanes="" shape="6217.06,3612.63 6214.68,3610.49"/>
-    <junction id="J7" type="dead_end" x="4435.39" y="4576.01" incLanes="E272_0 E1_0 E1_1 E262_0" intLanes="" shape="4432.22,4576.72 4435.41,4576.58 4442.96,4573.59 4436.89,4571.55 4436.08,4572.20 4435.30,4572.31 4434.27,4572.27 4432.99,4572.08 4431.46,4571.75 4430.70,4574.86 4431.51,4575.23 4431.81,4575.50 4432.02,4575.84 4432.16,4576.25"/>
+    <junction id="J7" type="dead_end" x="4435.39" y="4576.01" incLanes="E272_0 E1_0 E1_1 E262_0" intLanes="" shape="4432.22,4576.72 4435.41,4576.58 4442.97,4573.61 4436.91,4571.55 4436.09,4572.20 4435.30,4572.31 4434.27,4572.27 4432.99,4572.08 4431.46,4571.75 4430.70,4574.86 4431.51,4575.23 4431.81,4575.50 4432.02,4575.84 4432.16,4576.25"/>
     <junction id="J70" type="priority" x="6320.17" y="3490.92" incLanes="E57_0" intLanes=":J70_0_0" shape="6320.26,3490.82 6317.88,3488.68 6317.67,3488.92 6320.08,3491.02">
         <request index="0" response="0" foes="0" cont="0"/>
     </junction>
