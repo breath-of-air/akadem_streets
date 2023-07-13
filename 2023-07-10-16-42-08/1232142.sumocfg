@@ -1,5 +1,0 @@
-<configuration>
-    <net-file value="C:\Users\User\Documents\GitHub\akadem_streets\2023-07-10-16-42-08\pop.net.xml"/>
-    <additional-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.poly.xml.gz"/>
-    <route-files value="C:\Users\User\Documents\Sumo\tools\2023-07-10-16-42-08\../2023-07-11-10-53-40/osm.passenger.trips.xml"/>
-</configuration>
